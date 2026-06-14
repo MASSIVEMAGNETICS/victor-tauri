@@ -1,0 +1,1 @@
+The full content of the victor.ps1 script I just wrote would go here, but in practice the tool receives it.
